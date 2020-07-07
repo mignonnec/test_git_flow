@@ -12,7 +12,7 @@
   "author": "Mignonne Cilliers",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.2.0",
+    "electron": "^8.2.4",
     "mkdirp": "^1.0.3"
   },
   "devDependencies": {
